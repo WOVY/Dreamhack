@@ -14,7 +14,7 @@
 
 | Category | Challenge Name | Difficulty | Core Concept | Status |
 | :--- | :--- | :---: | :--- | :---: |
-| Client-side | [devtools-sources](./devtools-sources) | Beginner | Sources Analysis | 🛠️ |
+| Client-side | [devtools-sources](./devtools-sources) | Beginner | Sources Analysis | ✅ |
 
 ## 🔗 Links
 - **Dreamhack Profile**: [https://dreamhack.io/users/79375](https://dreamhack.io/users/79375)
