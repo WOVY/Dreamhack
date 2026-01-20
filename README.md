@@ -16,7 +16,7 @@
 | :--- | :--- | :---: | :--- | :---: |
 | Client-side | [devtools-sources](./devtools-sources) | Beginner | Information Exposure | ✅ |
 | Web (Auth) | [cookie](./cookie) | Beginner | Cookie Manipulation | ✅ |
-| Web (Auth) | [session-basic](./session-basic) | LEVEL 1 | Session Guessing | ✅ |
+| Web (Auth) | [session-basic](./session-basic) | LEVEL 1 | Information Exposure | ✅ |
 
 ## 🔗 Links
 - **Dreamhack Profile**: [https://dreamhack.io/users/79375](https://dreamhack.io/users/79375)
