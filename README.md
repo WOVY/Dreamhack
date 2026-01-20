@@ -1,1 +1,20 @@
-# Dreamhack-Web
+# 🛡️ Dreamhack Web Hacking Study
+
+## 📌 Project Overview
+- **Description**: [Dreamhack](https://dreamhack.io/) 워게임 취약점 분석 및 익스플로잇 기록 저장소입니다.
+- **Objective**: 각 분야별 취약점의 Root Cause를 파악하고, 재현 가능한 분석 보고서 작성을 목표로 합니다.
+
+## 🛠️ Tech Stack & Tools
+- **Platform**: Dreamhack Wargame
+- **Tools**: Burp Suite, Chrome DevTools, Python (Requests, Pwntools)
+- **Environment**: Linux (Ubuntu), Docker
+
+## 📑 Challenge List
+문제명을 클릭하면 상세 분석 리포트(README)로 이동합니다.
+
+| Category | Challenge Name | Difficulty | Core Concept | Status |
+| :--- | :--- | :---: | :--- | :---: |
+| Client-side | [devtools-sources](./devtools-sources) | Beginner | Sources Analysis | 🛠️ |
+
+## 🔗 Links
+- **Dreamhack Profile**: [https://dreamhack.io/users/79375](https://dreamhack.io/users/79375)
