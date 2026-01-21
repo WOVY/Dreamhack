@@ -43,7 +43,7 @@
 ### Flag 획득 화면
 ![Flag Success Screenshot](./xss-1_flag.png)
 
-- **Flag**: `DH{2494218809e530ee21626f22849e7514}`
+- **Flag**: `DH{2c01577e9542ec24d68ba0ffb846508e}`
 
 ## 6. 보안 인사이트 (Retrospective)
 - **Root Cause**: 사용자 입력값을 검증하거나 필터링(Sanitizing)하지 않고 브라우저에 그대로 출력하여 임의의 스크립트 실행을 허용함.
