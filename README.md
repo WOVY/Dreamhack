@@ -21,7 +21,7 @@
 | Web (Auth) | [xss-2](./xss-2) | LEVEL 1 | DOM-based XSS / innerHTML Bypass | ✅ |
 | Web (Auth) | [csrf-1](./csrf-1) | LEVEL 1 | CSRF (Cross-Site Request Forgery) | ✅ |
 | Web (Auth) | [csrf-2](./csrf-2) | LEVEL 1 | CSRF (Account Takeover) | ✅ |
-| Server-side | [simple-sqli](./simple_sqli) | LEVEL 1 | **SQL Injection (Auth Bypass)** | ✅ |
+| Server-side | [simple_sqli](./simple_sqli) | LEVEL 1 | **SQL Injection (Auth Bypass)** | ✅ |
 
 
 ## 🔗 Links
