@@ -23,6 +23,7 @@
 | Web (Auth) | [csrf-2](./csrf-2) | LEVEL 1 | CSRF (Account Takeover) | ✅ |
 | Server-side | [simple_sqli](./simple_sqli) | LEVEL 1 | SQL Injection (Auth Bypass) | ✅ |
 | Server-side | [Mango](./Mango) | LEVEL 2 | NoSQL Injection | ✅ |
+| Server-side | [command-injection-1](./command-injection-1) | Beginner | OS Command Injection | ✅ |
 
 
 ## 🔗 Links
