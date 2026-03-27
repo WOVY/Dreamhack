@@ -14,17 +14,17 @@
 
 | Category | Challenge Name | Difficulty | Core Concept | Status |
 | :--- | :--- | :---: | :--- | :---: |
-| Client-side | [devtools-sources](./devtools-sources) | Beginner | Information Exposure | ✅ |
-| Web (Auth) | [cookie](./cookie) | Beginner | Cookie Manipulation | ✅ |
-| Web (Auth) | [session-basic](./session-basic) | LEVEL 1 | Information Exposure | ✅ |
-| Web (Auth) | [xss-1](./xss-1) | LEVEL 1 | Reflected XSS | ✅ |
-| Web (Auth) | [xss-2](./xss-2) | LEVEL 1 | DOM-based XSS / innerHTML Bypass | ✅ |
-| Web (Auth) | [csrf-1](./csrf-1) | LEVEL 1 | CSRF (Cross-Site Request Forgery) | ✅ |
-| Web (Auth) | [csrf-2](./csrf-2) | LEVEL 1 | CSRF (Account Takeover) | ✅ |
-| Server-side | [simple_sqli](./simple_sqli) | LEVEL 1 | SQL Injection (Auth Bypass) | ✅ |
-| Server-side | [Mango](./Mango) | LEVEL 2 | NoSQL Injection | ✅ |
-| Server-side | [command-injection-1](./command-injection-1) | Beginner | OS Command Injection | ✅ |
-| Server-side | [image-storage](./image-storage) | LEVEL 1 | File Upload Vulnerability | ✅ |
+| Client-side | [devtools-sources](./Beginner/devtools-sources) | Beginner | Information Exposure | ✅ |
+| Web (Auth) | [cookie](./Beginner/cookie/) | Beginner | Cookie Manipulation | ✅ |
+| Web (Auth) | [session-basic](./LEVEL_1/session-basic) | LEVEL 1 | Information Exposure | ✅ |
+| Web (Auth) | [xss-1](./LEVEL_1/xss-1) | LEVEL 1 | Reflected XSS | ✅ |
+| Web (Auth) | [xss-2](./LEVEL_1/xss-2) | LEVEL 1 | DOM-based XSS / innerHTML Bypass | ✅ |
+| Web (Auth) | [csrf-1](./LEVEL_1/csrf-1) | LEVEL 1 | CSRF (Cross-Site Request Forgery) | ✅ |
+| Web (Auth) | [csrf-2](./LEVEL_1/csrf-2) | LEVEL 1 | CSRF (Account Takeover) | ✅ |
+| Server-side | [simple_sqli](./LEVEL_1/simple_sqli) | LEVEL 1 | SQL Injection (Auth Bypass) | ✅ |
+| Server-side | [Mango](./LEVEL_2/Mango) | LEVEL 2 | NoSQL Injection | ✅ |
+| Server-side | [command-injection-1](./LEVEL_1/command-injection-1) | Beginner | OS Command Injection | ✅ |
+| Server-side | [image-storage](./LEVEL_1/image-storage) | LEVEL 1 | File Upload Vulnerability | ✅ |
 
 
 ## 🔗 Links
