@@ -24,6 +24,7 @@
 | Server-side | [simple_sqli](./simple_sqli) | LEVEL 1 | SQL Injection (Auth Bypass) | ✅ |
 | Server-side | [Mango](./Mango) | LEVEL 2 | NoSQL Injection | ✅ |
 | Server-side | [command-injection-1](./command-injection-1) | Beginner | OS Command Injection | ✅ |
+| Server-side | [image-storage](./image-storage) | LEVEL 1 | File Upload Vulnerability | ✅ |
 
 
 ## 🔗 Links
