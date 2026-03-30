@@ -26,6 +26,7 @@
 | Server-side | [command-injection-1](./LEVEL_1/command-injection-1) | Beginner | OS Command Injection | ✅ |
 | Server-side | [image-storage](./LEVEL_1/image-storage) | LEVEL 1 | File Upload Vulnerability | ✅ |
 | Server-side | [file-download-1](./Beginner/file-download-1) | Beginner | Path Traversal | ✅ |
+| Server-side | [web-ssrf](./LEVEL_2/web-ssrf) | LEVEL 2 | SSRF & Port Scanning | ✅ |
 
 
 ## 🔗 Links
