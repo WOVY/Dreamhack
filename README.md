@@ -25,6 +25,7 @@
 | Server-side | [Mango](./LEVEL_2/Mango) | LEVEL 2 | NoSQL Injection | ✅ |
 | Server-side | [command-injection-1](./LEVEL_1/command-injection-1) | Beginner | OS Command Injection | ✅ |
 | Server-side | [image-storage](./LEVEL_1/image-storage) | LEVEL 1 | File Upload Vulnerability | ✅ |
+| Server-side | [file-download-1](./Beginner/file-download-1) | Beginner | Path Traversal | ✅ |
 
 
 ## 🔗 Links
