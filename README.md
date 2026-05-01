@@ -13,23 +13,23 @@
 
 ## Web Hacking
 
-| Challenge | Difficulty | Core Concept |
+| Challenge | Difficulty | Category |
 | :--- | :---: | :--- |
-| [devtools-sources](./web/Sprout/devtools-sources) | Sprout | Information Exposure |
-| [cookie](./web/Sprout/cookie/) | Sprout | Cookie Manipulation |
-| [command-injection-1](./web/Sprout/command-injection-1) | Sprout | OS Command Injection |
-| [file-download-1](./web/Sprout/file-download-1) | Sprout | Path Traversal |
-| [pathtraversal](./web/Sprout/pathtraversal) | Sprout | API Path Traversal |
-| [session-basic](./web/BRONZE/session-basic) | B4 | Information Exposure |
-| [image-storage](./web/BRONZE/image-storage) | B4 | File Upload Vulnerability |
-| [random-test](./web/BRONZE/random-test) | B4 | Brute-force |
-| [xss-1](./web/BRONZE/xss-1) | B2 | Reflected XSS |
-| [xss-2](./web/BRONZE/xss-2) | B1 | DOM-based XSS / innerHTML Bypass |
-| [simple_sqli](./web/BRONZE/simple_sqli) | B1 | SQL Injection (Auth Bypass) |
-| [csrf-1](./web/SILVER/csrf-1) | S4 | CSRF (Cross-Site Request Forgery) |
-| [csrf-2](./web/SILVER/csrf-2) | S4 | CSRF (Account Takeover) |
-| [Mango](./web/SILVER/Mango) | S4 | NoSQL Injection |
-| [web-ssrf](./web/SILVER/web-ssrf) | S2 | SSRF & Port Scanning |
+| [devtools-sources](./web/Sprout/devtools-sources) | Sprout | Dev Tools |
+| [cookie](./web/Sprout/cookie/) | Sprout | Flask, Cookie Forgery |
+| [command-injection-1](./web/Sprout/command-injection-1) | Sprout | Flask, Command Injection |
+| [file-download-1](./web/Sprout/file-download-1) | Sprout | Flask, Arbitrary File Read |
+| [pathtraversal](./web/Sprout/pathtraversal) | Sprout | Flask, Path Traversal |
+| [session-basic](./web/BRONZE/session-basic) | B4 | Flask, Session Forgery |
+| [image-storage](./web/BRONZE/image-storage) | B4 | Arbitrary File Upload, PHP |
+| [random-test](./web/BRONZE/random-test) | B4 | Flask, Brute Force Attack |
+| [xss-1](./web/BRONZE/xss-1) | B2 | Flask, Cross-Site Scripting (XSS) |
+| [xss-2](./web/BRONZE/xss-2) | B1 | Flask, Cross-Site Scripting (XSS) |
+| [simple_sqli](./web/BRONZE/simple_sqli) | B1 | Flask, MySQL (MariaDB), SQL Injection |
+| [csrf-1](./web/SILVER/csrf-1) | S4 | Cross-Site Request Forgery (CSRF), Flask |
+| [csrf-2](./web/SILVER/csrf-2) | S4 | Cross-Site Request Forgery (CSRF), Flask |
+| [Mango](./web/SILVER/Mango) | S4 | Express, MongoDB, NoSQL Injection |
+| [web-ssrf](./web/SILVER/web-ssrf) | S2 | Flask, Server-Side Request Forgery (SSRF), Brute Force Attack |
 
 ## Links
 
