@@ -32,9 +32,6 @@
 
 ## 5. 결과 (Result)
 
-### Flag 획득 화면
-![Flag Success Screenshot](./cookie_flag.png) 
-
 - **Flag**: `DH{7952074b69ee388ab45432737f9b0c56}`
 
 ## 6. 보안 인사이트 (Retrospective)

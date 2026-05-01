@@ -32,8 +32,6 @@
 
 ## 5. 결과 (Result)
 
-### Flag 획득 화면
-
 - **Flag**: `DH{3c01577e9542ec24d68ba0ffb846508f}`
 
 ## 6. 보안 인사이트 (Retrospective)

@@ -40,9 +40,6 @@
 
 ## 5. 결과 (Result)
 
-### Flag 획득 화면
-![Flag Success Screenshot](./xss-1_flag.png)
-
 - **Flag**: `DH{2c01577e9542ec24d68ba0ffb846508e}`
 
 ## 6. 보안 인사이트 (Retrospective)

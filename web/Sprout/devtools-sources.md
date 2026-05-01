@@ -28,9 +28,6 @@
 
 ## 5. 결과 (Result)
 
-### Flag 획득 화면
-![Flag Success Screenshot](./devtools_sources_flag.png) 
-
 - **Flag**: `DH{2ed07940b6fd9b0731ef698a5f0c065be9398f7fa00f03ed9da586c3ed1d54d5}`
 
 ## 6. 보안 인사이트 (Retrospective)

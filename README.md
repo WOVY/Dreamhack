@@ -15,22 +15,22 @@
 
 | Challenge | Difficulty | Core Concept |
 | :--- | :---: | :--- |
-| [devtools-sources](./web/Sprout/devtools-sources) | Sprout | Information Exposure |
-| [cookie](./web/Sprout/cookie/) | Sprout | Cookie Manipulation |
-| [command-injection-1](./web/Sprout/command-injection-1) | Sprout | OS Command Injection |
-| [file-download-1](./web/Sprout/file-download-1) | Sprout | Path Traversal |
-| [pathtraversal](./web/Sprout/pathtraversal) | Sprout | API Path Traversal |
-| [session-basic](./web/BRONZE/session-basic) | B4 | Information Exposure |
-| [image-storage](./web/BRONZE/image-storage) | B4 | File Upload Vulnerability |
-| [random-test](./web/BRONZE/random-test) | B4 | Brute-force |
-| [mongoboard](./web/BRONZE/mongoboard) | B3 | MongoDB ObjectID Enumeration (IDOR) |
-| [xss-1](./web/BRONZE/xss-1) | B2 | Reflected XSS |
-| [xss-2](./web/BRONZE/xss-2) | B1 | DOM-based XSS / innerHTML Bypass |
-| [simple_sqli](./web/BRONZE/simple_sqli) | B1 | SQL Injection (Auth Bypass) |
-| [csrf-1](./web/SILVER/csrf-1) | S4 | CSRF (Cross-Site Request Forgery) |
-| [csrf-2](./web/SILVER/csrf-2) | S4 | CSRF (Account Takeover) |
-| [Mango](./web/SILVER/Mango) | S4 | NoSQL Injection |
-| [web-ssrf](./web/SILVER/web-ssrf) | S2 | SSRF & Port Scanning |
+| [devtools-sources](./web/Sprout/devtools-sources.md) | Sprout | Information Exposure |
+| [cookie](./web/Sprout/cookie.md) | Sprout | Cookie Manipulation |
+| [command-injection-1](./web/Sprout/command-injection-1.md) | Sprout | OS Command Injection |
+| [file-download-1](./web/Sprout/file-download-1.md) | Sprout | Path Traversal |
+| [pathtraversal](./web/Sprout/pathtraversal.md) | Sprout | API Path Traversal |
+| [session-basic](./web/BRONZE/session-basic.md) | B4 | Information Exposure |
+| [image-storage](./web/BRONZE/image-storage.md) | B4 | File Upload Vulnerability |
+| [random-test](./web/BRONZE/random-test.md) | B4 | Brute-force |
+| [mongoboard](./web/BRONZE/mongoboard.md) | B3 | MongoDB ObjectID Enumeration (IDOR) |
+| [xss-1](./web/BRONZE/xss-1.md) | B2 | Reflected XSS |
+| [xss-2](./web/BRONZE/xss-2.md) | B1 | DOM-based XSS / innerHTML Bypass |
+| [simple_sqli](./web/BRONZE/simple_sqli.md) | B1 | SQL Injection (Auth Bypass) |
+| [csrf-1](./web/SILVER/csrf-1.md) | S4 | CSRF (Cross-Site Request Forgery) |
+| [csrf-2](./web/SILVER/csrf-2.md) | S4 | CSRF (Account Takeover) |
+| [Mango](./web/SILVER/Mango.md) | S4 | NoSQL Injection |
+| [web-ssrf](./web/SILVER/web-ssrf.md) | S2 | SSRF & Port Scanning |
 
 ## Links
 

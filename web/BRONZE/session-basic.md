@@ -33,9 +33,6 @@
 
 ## 5. 결과 (Result)
 
-### Flag 획득 화면
-![Flag Success Screenshot](./session-basic_flag.png)
-
 - **Flag**: `DH{8f3d86d1134c26fedf7c4c3ecd563aae3da98d5c}`
 
 ## 6. 보안 인사이트 (Retrospective)
