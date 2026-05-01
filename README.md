@@ -7,7 +7,7 @@
 
 | Domain | Link | Challenges |
 | :--- | :--- | :---: |
-| Web Hacking | [web/](./web/) | 14 |
+| Web Hacking | [web/](./web/) | 15 |
 
 ---
 
@@ -22,6 +22,7 @@
 | [pathtraversal](./web/Sprout/pathtraversal) | Sprout | API Path Traversal |
 | [session-basic](./web/BRONZE/session-basic) | B4 | Information Exposure |
 | [image-storage](./web/BRONZE/image-storage) | B4 | File Upload Vulnerability |
+| [random-test](./web/BRONZE/random-test) | B4 | Brute-force |
 | [xss-1](./web/BRONZE/xss-1) | B2 | Reflected XSS |
 | [xss-2](./web/BRONZE/xss-2) | B1 | DOM-based XSS / innerHTML Bypass |
 | [simple_sqli](./web/BRONZE/simple_sqli) | B1 | SQL Injection (Auth Bypass) |
