@@ -33,7 +33,6 @@
 ## 5. 결과 (Result)
 
 ### Flag 획득 화면
-![Flag Success Screenshot](./xss-2_flag.png)
 
 - **Flag**: `DH{3c01577e9542ec24d68ba0ffb846508f}`
 
