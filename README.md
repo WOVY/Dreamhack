@@ -7,7 +7,7 @@
 
 | Domain | Link | Challenges |
 | :--- | :--- | :---: |
-| Web Hacking | [web/](./web/) | 13 |
+| Web Hacking | [web/](./web/) | 14 |
 
 ---
 
@@ -15,19 +15,20 @@
 
 | Challenge | Difficulty | Core Concept |
 | :--- | :---: | :--- |
-| [devtools-sources](./web/Beginner/devtools-sources) | Sprout | Information Exposure |
-| [cookie](./web/Beginner/cookie/) | Sprout | Cookie Manipulation |
-| [session-basic](./web/LEVEL_1/session-basic) | B4 | Information Exposure |
-| [xss-1](./web/LEVEL_1/xss-1) | B2 | Reflected XSS |
-| [xss-2](./web/LEVEL_1/xss-2) | B1 | DOM-based XSS / innerHTML Bypass |
-| [csrf-1](./web/LEVEL_1/csrf-1) | S4 | CSRF (Cross-Site Request Forgery) |
-| [csrf-2](./web/LEVEL_1/csrf-2) | S4 | CSRF (Account Takeover) |
-| [simple_sqli](./web/LEVEL_1/simple_sqli) | B1 | SQL Injection (Auth Bypass) |
-| [Mango](./web/LEVEL_2/Mango) | S4 | NoSQL Injection |
-| [command-injection-1](./web/Beginner/command-injection-1) | Sprout | OS Command Injection |
-| [image-storage](./web/LEVEL_1/image-storage) | B4 | File Upload Vulnerability |
-| [file-download-1](./web/Beginner/file-download-1) | Sprout | Path Traversal |
-| [web-ssrf](./web/LEVEL_2/web-ssrf) | S2 | SSRF & Port Scanning |
+| [devtools-sources](./web/Sprout/devtools-sources) | Sprout | Information Exposure |
+| [cookie](./web/Sprout/cookie/) | Sprout | Cookie Manipulation |
+| [command-injection-1](./web/Sprout/command-injection-1) | Sprout | OS Command Injection |
+| [file-download-1](./web/Sprout/file-download-1) | Sprout | Path Traversal |
+| [pathtraversal](./web/Sprout/pathtraversal) | Sprout | API Path Traversal |
+| [session-basic](./web/BRONZE/session-basic) | B4 | Information Exposure |
+| [image-storage](./web/BRONZE/image-storage) | B4 | File Upload Vulnerability |
+| [xss-1](./web/BRONZE/xss-1) | B2 | Reflected XSS |
+| [xss-2](./web/BRONZE/xss-2) | B1 | DOM-based XSS / innerHTML Bypass |
+| [simple_sqli](./web/BRONZE/simple_sqli) | B1 | SQL Injection (Auth Bypass) |
+| [csrf-1](./web/SILVER/csrf-1) | S4 | CSRF (Cross-Site Request Forgery) |
+| [csrf-2](./web/SILVER/csrf-2) | S4 | CSRF (Account Takeover) |
+| [Mango](./web/SILVER/Mango) | S4 | NoSQL Injection |
+| [web-ssrf](./web/SILVER/web-ssrf) | S2 | SSRF & Port Scanning |
 
 ## Links
 
