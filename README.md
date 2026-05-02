@@ -7,7 +7,7 @@
 
 | Domain | Link | Challenges |
 | :--- | :--- | :---: |
-| Web Hacking | [web/](./web/) | 16 |
+| Web Hacking | [web/](./web/) | 17 |
 
 ---
 
@@ -24,6 +24,7 @@
 | [image-storage](./web/BRONZE/image-storage.md) | B4 | File Upload Vulnerability |
 | [random-test](./web/BRONZE/random-test.md) | B4 | Brute-force |
 | [mongoboard](./web/BRONZE/mongoboard.md) | B3 | MongoDB ObjectID Enumeration (IDOR) |
+| [BypassIF](./web/BRONZE/BypassIF.md) | B3 | OS Command Injection / Exception Handler Information Disclosure |
 | [xss-1](./web/BRONZE/xss-1.md) | B2 | Reflected XSS |
 | [xss-2](./web/BRONZE/xss-2.md) | B1 | DOM-based XSS / innerHTML Bypass |
 | [simple_sqli](./web/BRONZE/simple_sqli.md) | B1 | SQL Injection (Auth Bypass) |
